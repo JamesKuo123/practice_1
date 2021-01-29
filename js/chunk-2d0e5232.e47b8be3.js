@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5232"],{"92cf":function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"onlinestore"},[t("h1",[e._v("線上購物")]),t("router-view")],1)},c=[],l={},r=l,u=t("2877"),i=Object(u["a"])(r,s,c,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0e5232.e47b8be3.js.map
